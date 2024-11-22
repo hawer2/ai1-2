@@ -47,7 +47,7 @@ def display_right_content(prediction, data):
     # 2nd Row - YouTube Videos
     for i in range(3):
         with cols[i]:
-            st.video(data['videos'][i])
+            st.video(data['https://www.youtube.com/watch?v=aVxP8_etVfg'][i])
             st.caption(f"유튜브: {prediction}")
     # 3rd Row - Text
     for i in range(3):
@@ -83,9 +83,9 @@ content_data = {
             "https://via.placeholder.com/300?text=Label1_Image3"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=aVxP8_etVfg,
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=2Vv-BfVoq4g,
+            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
+            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
             "Label 1 관련 첫 번째 텍스트 내용입니다.",
