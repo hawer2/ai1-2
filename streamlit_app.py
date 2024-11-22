@@ -83,9 +83,9 @@ content_data = {
             "https://via.placeholder.com/300?text=Label1_Image3"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g,
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
             "Label 1 관련 첫 번째 텍스트 내용입니다.",
