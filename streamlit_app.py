@@ -83,7 +83,7 @@ content_data = {
             "https://via.placeholder.com/300?text=Label1_Image3"
         ],
         'videos': [
-            "https://youtu.be/aVxP8_etVfg?si=xdF662yfsLUbGqqu,
+            "https://www.youtube.com/watch?v=aVxP8_etVfg,
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
