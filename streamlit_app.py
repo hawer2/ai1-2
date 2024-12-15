@@ -88,9 +88,9 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "세트.",
-            "세트.",
-            "세트."
+            "Label 1 관련 첫 번째 텍스트 내용입니다.",
+            "Label 1 관련 두 번째 텍스트 내용입니다.",
+            "Label 1 관련 세 번째 텍스트 내용입니다."
         ]
     },
     labels[1]: {
@@ -105,9 +105,9 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "아리",
-            "아리",
-            "아리."
+            "Label 2 관련 첫 번째 텍스트 내용입니다.",
+            "Label 2 관련 두 번째 텍스트 내용입니다.",
+            "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
     },
     labels[2]: {
@@ -122,9 +122,9 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "카이사",
-            "카이사",
-            "카이사."
+            "Label 3 관련 첫 번째 텍스트 내용입니다.",
+            "Label 3 관련 두 번째 텍스트 내용입니다.",
+            "Label 3 관련 세 번째 텍스트 내용입니다."
         ]
     }
 }
